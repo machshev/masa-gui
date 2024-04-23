@@ -1,2 +1,3 @@
 # masa-gui
-QT GUI for the Masa system
+
+Native QT GUI for the [Masa](https://github.com/machshev/masa) system.
